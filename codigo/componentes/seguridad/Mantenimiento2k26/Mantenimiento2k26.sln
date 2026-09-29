@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37502.11 d17.14
+VisualStudioVersion = 17.14.37502.11
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantenimiento2k26", "Mantenimiento2k26\Mantenimiento2k26.csproj", "{F88DCA24-8265-40DB-9C95-9967FFD9C361}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaControlador_Mantenimiento", "CapaControlador_Mantenimiento\CapaControlador_Mantenimiento.csproj", "{6C40FC08-001A-43AF-94B5-BA6F42F0974B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F88DCA24-8265-40DB-9C95-9967FFD9C361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F88DCA24-8265-40DB-9C95-9967FFD9C361}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F88DCA24-8265-40DB-9C95-9967FFD9C361}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F88DCA24-8265-40DB-9C95-9967FFD9C361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C40FC08-001A-43AF-94B5-BA6F42F0974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C40FC08-001A-43AF-94B5-BA6F42F0974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C40FC08-001A-43AF-94B5-BA6F42F0974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C40FC08-001A-43AF-94B5-BA6F42F0974B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
