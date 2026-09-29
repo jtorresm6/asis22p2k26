@@ -1,0 +1,41 @@
+commit 019c09be13d5fa89dbdc2c563832d487823de1ab
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Tue Sep 29 10:21:11 2026 -0600
+
+    Agregacion de Dll naveagor , el crud y el formulario funciona, tambien instacear el formualrio en seguridad
+
+commit dd26b991f56cadd305b1d96e1186eee8e708260f
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Tue Sep 29 09:10:10 2026 -0600
+
+    Cracion de CapaVista
+
+commit bfd344ce4c4839f43b4679c09b7ae77e84f93d39
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Tue Sep 29 09:06:11 2026 -0600
+
+    Creacion de Capa Modelo
+
+commit bf20b12dfc40da2a4af9a204fcda8dd1ec121ce4
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Tue Sep 29 09:02:10 2026 -0600
+
+    Creacion de Capa Controlador
+
+commit b512186d05c5ea8161274147e3d01a4a1263da6e
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Tue Sep 29 08:57:38 2026 -0600
+
+    Creacion de Capa Controladora
+
+commit 09c914bc936a71f534d186db4c688e073b58ecb1
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon Sep 28 18:43:48 2026 -0600
+
+    Inicial proyecto
+
+commit f414c498afdbaf970217efd1012204fbe9379647
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon Sep 28 18:41:50 2026 -0600
+
+    Initial commit
